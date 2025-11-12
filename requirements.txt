@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly
+# Add any other libraries you used
